@@ -1,0 +1,1008 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GT3Themes WP\n"
+"POT-Creation-Date: 2016-11-24 11:50+0200\n"
+"PO-Revision-Date: 2016-11-24 11:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: GT3Themes <help@gt3themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "404"
+msgstr ""
+
+#: 404.php:6
+msgid "Search the Site"
+msgstr ""
+
+#: 404.php:7
+msgid "Search"
+msgstr ""
+
+#: bloglisting.php:27
+msgid "tags"
+msgstr ""
+
+#: bloglisting.php:50 search.php:58 search.php:84 single-port.php:111
+#: single.php:44
+msgid "comments"
+msgstr ""
+
+#: bloglisting.php:76
+msgid "Read More"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Name *"
+msgstr ""
+
+#: comments.php:55
+msgid "Email *"
+msgstr ""
+
+#: comments.php:56
+msgid "URL"
+msgstr ""
+
+#: comments.php:58
+msgid "Message..."
+msgstr ""
+
+#: comments.php:61
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Leave a Comment!"
+msgstr ""
+
+#: comments.php:63
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:64
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:64
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:69
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: core/admin/options.php:6
+msgid "General"
+msgstr ""
+
+#: core/admin/options.php:13
+msgid "Header logo"
+msgstr ""
+
+#: core/admin/options.php:19
+msgid "Logo (Retina)"
+msgstr ""
+
+#: core/admin/options.php:25
+msgid "Header logo width"
+msgstr ""
+
+#: core/admin/options.php:33
+msgid "Header logo height"
+msgstr ""
+
+#: core/admin/options.php:42
+msgid "Favicon"
+msgstr ""
+
+#: core/admin/options.php:49
+msgid "Apple touch icon (57px)"
+msgstr ""
+
+#: core/admin/options.php:56
+msgid "Apple touch icon (72px)"
+msgstr ""
+
+#: core/admin/options.php:63
+msgid "Apple touch icon (114px)"
+msgstr ""
+
+#: core/admin/options.php:69
+msgid "Google analytics or any other code<br>(before &lt;/head&gt;)"
+msgstr ""
+
+#: core/admin/options.php:74
+msgid "Any code <br>(before &lt;/body&gt;)"
+msgstr ""
+
+#: core/admin/options.php:79
+msgid "Copyright"
+msgstr ""
+
+#: core/admin/options.php:86
+msgid "Import demo content"
+msgstr ""
+
+#: core/admin/options.php:95
+msgid "Sidebars"
+msgstr ""
+
+#: core/admin/options.php:102
+msgid "Default sidebar layout"
+msgstr ""
+
+#: core/admin/options.php:107
+msgid "Left sidebar"
+msgstr ""
+
+#: core/admin/options.php:108
+msgid "Right sidebar"
+msgstr ""
+
+#: core/admin/options.php:109
+msgid "Without sidebar"
+msgstr ""
+
+#: core/admin/options.php:113
+msgid "Sidebar manager"
+msgstr ""
+
+#: core/admin/options.php:120
+msgid "Fonts"
+msgstr ""
+
+#: core/admin/options.php:127
+msgid "Content font"
+msgstr ""
+
+#: core/admin/options.php:134
+msgid "Main font parameters"
+msgstr ""
+
+#: core/admin/options.php:143
+msgid "Main menu font"
+msgstr ""
+
+#: core/admin/options.php:150
+msgid "Main menu font parameters"
+msgstr ""
+
+#: core/admin/options.php:159
+msgid "Headers"
+msgstr ""
+
+#: core/admin/options.php:166
+msgid "Headers font parameters"
+msgstr ""
+
+#: core/admin/options.php:175
+msgid "Content font weight"
+msgstr ""
+
+#: core/admin/options.php:184
+msgid "Headings font weight"
+msgstr ""
+
+#: core/admin/options.php:193
+msgid "Main menu font size"
+msgstr ""
+
+#: core/admin/options.php:202
+msgid "H1 font size"
+msgstr ""
+
+#: core/admin/options.php:211
+msgid "H2 font size"
+msgstr ""
+
+#: core/admin/options.php:220
+msgid "H3 font size"
+msgstr ""
+
+#: core/admin/options.php:229
+msgid "H4 font size"
+msgstr ""
+
+#: core/admin/options.php:238
+msgid "H5 font size"
+msgstr ""
+
+#: core/admin/options.php:247
+msgid "H6 font size"
+msgstr ""
+
+#: core/admin/options.php:256
+msgid "Content font size"
+msgstr ""
+
+#: core/admin/options.php:265
+msgid "Content line height"
+msgstr ""
+
+#: core/admin/options.php:277
+msgid "Socials"
+msgstr ""
+
+#: core/admin/options.php:283
+msgid "Facebook"
+msgstr ""
+
+#: core/admin/options.php:289
+msgid "Flickr"
+msgstr ""
+
+#: core/admin/options.php:295
+msgid "Tumblr"
+msgstr ""
+
+#: core/admin/options.php:301
+msgid "Instagram"
+msgstr ""
+
+#: core/admin/options.php:307
+msgid "Twitter"
+msgstr ""
+
+#: core/admin/options.php:314
+msgid "Youtube"
+msgstr ""
+
+#: core/admin/options.php:320
+msgid "Dribbble"
+msgstr ""
+
+#: core/admin/options.php:326
+msgid "Google+"
+msgstr ""
+
+#: core/admin/options.php:332
+msgid "Vimeo"
+msgstr ""
+
+#: core/admin/options.php:338
+msgid "Delicious"
+msgstr ""
+
+#: core/admin/options.php:344
+msgid "Linked In"
+msgstr ""
+
+#: core/admin/options.php:350
+msgid "Pinterest"
+msgstr ""
+
+#: core/admin/options.php:356
+msgid "500px"
+msgstr ""
+
+#: core/admin/options.php:365
+msgid "Contacts"
+msgstr ""
+
+#: core/admin/options.php:371
+msgid "Send mails to"
+msgstr ""
+
+#: core/admin/options.php:376
+msgid "Phone number"
+msgstr ""
+
+#: core/admin/options.php:384
+msgid "View Options"
+msgstr ""
+
+#: core/admin/options.php:390
+msgid "Responsive"
+msgstr ""
+
+#: core/admin/options.php:395 core/admin/options.php:442
+msgid "On"
+msgstr ""
+
+#: core/admin/options.php:396 core/admin/options.php:443
+msgid "Off"
+msgstr ""
+
+#: core/admin/options.php:400
+msgid "Theme color"
+msgstr ""
+
+#: core/admin/options.php:408
+msgid "Default background image"
+msgstr ""
+
+#: core/admin/options.php:415
+msgid "404 page background image"
+msgstr ""
+
+#: core/admin/options.php:421
+msgid "Fullscreen blog Items per page"
+msgstr ""
+
+#: core/admin/options.php:429
+msgid "Fullscreen Portfolio Items per page"
+msgstr ""
+
+#: core/admin/options.php:437
+msgid "Related Posts"
+msgstr ""
+
+#: core/admin/options.php:447
+msgid "Default portfolio posts style"
+msgstr ""
+
+#: core/admin/options.php:452
+msgid "Fullscreen Slider"
+msgstr ""
+
+#: core/admin/options.php:453
+msgid "Fullscreen Ribbon"
+msgstr ""
+
+#: core/admin/options.php:454
+msgid "Simple"
+msgstr ""
+
+#: core/admin/options.php:458
+msgid "Portfolio comments"
+msgstr ""
+
+#: core/admin/options.php:463 core/admin/options.php:473
+#: core/admin/options.php:483
+msgid "Disabled"
+msgstr ""
+
+#: core/admin/options.php:464 core/admin/options.php:474
+#: core/admin/options.php:484
+msgid "Enabled"
+msgstr ""
+
+#: core/admin/options.php:468
+msgid "Page comments"
+msgstr ""
+
+#: core/admin/options.php:478
+msgid "Trackbacks and Pingbacks"
+msgstr ""
+
+#: core/admin/options.php:488
+msgid "Custom CSS"
+msgstr ""
+
+#: core/admin/options.php:495
+msgid "Gallery Options"
+msgstr ""
+
+#: core/admin/options.php:501
+msgid "Fit Style"
+msgstr ""
+
+#: core/admin/options.php:506
+msgid "Cover Slide"
+msgstr ""
+
+#: core/admin/options.php:507
+msgid "Fit Always"
+msgstr ""
+
+#: core/admin/options.php:508
+msgid "Fit Horizontal"
+msgstr ""
+
+#: core/admin/options.php:509
+msgid "Fit Vertical"
+msgstr ""
+
+#: core/admin/options.php:513
+msgid "Show Controls"
+msgstr ""
+
+#: core/admin/options.php:518 core/admin/options.php:528
+msgid "Yes"
+msgstr ""
+
+#: core/admin/options.php:519 core/admin/options.php:529
+msgid "No"
+msgstr ""
+
+#: core/admin/options.php:523
+msgid "Autoplay"
+msgstr ""
+
+#: core/admin/options.php:533
+msgid "Slide Interval In Milliseconds"
+msgstr ""
+
+#: core/admin/options.php:543
+msgid "Color options"
+msgstr ""
+
+#: core/admin/options.php:549
+msgid "Header background color"
+msgstr ""
+
+#: core/admin/options.php:556
+msgid "Header text color"
+msgstr ""
+
+#: core/admin/options.php:563
+msgid "Main menu text color"
+msgstr ""
+
+#: core/admin/options.php:570
+msgid "Sub-menu text color"
+msgstr ""
+
+#: core/admin/options.php:577
+msgid "Sub-menu border"
+msgstr ""
+
+#: core/admin/options.php:584
+msgid "Body background color"
+msgstr ""
+
+#: core/admin/options.php:591
+msgid "Main text color"
+msgstr ""
+
+#: core/admin/options.php:598
+msgid "Heading color"
+msgstr ""
+
+#: core/admin/options.php:605
+msgid "Content block background color"
+msgstr ""
+
+#: core/admin/options.php:612
+msgid "Footer copyright color"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:482
+msgid "Time spent"
+msgstr ""
+
+#: core/registrator/misc.php:44
+msgid "Custom Sidebars"
+msgstr ""
+
+#: core/registrator/misc.php:93
+msgid "Custom Layout"
+msgstr ""
+
+#: core/registrator/sidebars.php:9
+msgid ""
+"Add the widgets appearance for Custom Sidebar. Drag the widget from the "
+"available list on the left, configure widgets options and click Save button. "
+"Select the sidebar on the posts or pages in just few clicks."
+msgstr ""
+
+#: core/registrator/sidebars.php:18
+msgid ""
+"Add the widgets to display them in the Side Menu. Drag the widget from the "
+"available list on the left, configure widgets options and click Save button. "
+"They will appear below the menu items list."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:161 core/tgm/gt3-tgm.php:40
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:162 core/tgm/gt3-tgm.php:41
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:163 core/tgm/gt3-tgm.php:42
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:175 core/tgm/gt3-tgm.php:54
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:177
+#: core/tgm/class-tgm-plugin-activation.php:1950 core/tgm/gt3-tgm.php:55
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:535
+#: core/tgm/class-tgm-plugin-activation.php:2167
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1170
+msgid "Private Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1173
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1178
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1181
+msgid "Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1181
+msgid "Recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1184
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1186
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1291
+#: core/tgm/class-tgm-plugin-activation.php:1404
+msgid "Install"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1315
+#: core/tgm/class-tgm-plugin-activation.php:1405
+msgid "Activate"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1367
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1383
+msgid "Plugin"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1384
+msgid "Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1385
+msgid "Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1386
+msgid "Status"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1933
+msgid "Install package not available."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1934
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1935
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1936
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1937
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1938
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1949
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2063
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2064
+#: core/tgm/class-tgm-plugin-activation.php:2073
+msgid "Show Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2064
+#: core/tgm/class-tgm-plugin-activation.php:2073
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2065
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2070
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2074
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/gt3-tgm.php:43
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/gt3-tgm.php:56
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/widgets/posts.php:26 page-center.php:26 page.php:19 single-port.php:145
+#: single-port.php:502 single.php:78
+msgid "Read more!"
+msgstr ""
+
+#: core/xml-importer/importer.php:134 core/xml-importer/importer.php:143
+#: core/xml-importer/importer.php:194 core/xml-importer/importer.php:202
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: core/xml-importer/importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/xml-importer/importer.php:178
+msgid "All done."
+msgstr ""
+
+#: core/xml-importer/importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: core/xml-importer/importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: core/xml-importer/importer.php:210
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: core/xml-importer/importer.php:235
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: core/xml-importer/importer.php:261
+msgid "Assign Authors"
+msgstr ""
+
+#: core/xml-importer/importer.php:262
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: core/xml-importer/importer.php:264
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: core/xml-importer/importer.php:274
+msgid "Import Attachments"
+msgstr ""
+
+#: core/xml-importer/importer.php:277
+msgid "Download and import file attachments"
+msgstr ""
+
+#: core/xml-importer/importer.php:294
+msgid "Import author:"
+msgstr ""
+
+#: core/xml-importer/importer.php:305
+msgid "or create new user with login name:"
+msgstr ""
+
+#: core/xml-importer/importer.php:308
+msgid "as a new user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:316
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:318
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: core/xml-importer/importer.php:319
+msgid "- Select -"
+msgstr ""
+
+#: core/xml-importer/importer.php:369
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: core/xml-importer/importer.php:418
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:456
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:500 core/xml-importer/importer.php:626
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:522
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:543
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: core/xml-importer/importer.php:598
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: core/xml-importer/importer.php:758
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: core/xml-importer/importer.php:765
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:828
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: core/xml-importer/importer.php:841
+msgid "Invalid file type"
+msgstr ""
+
+#: core/xml-importer/importer.php:885
+msgid "Remote server did not respond"
+msgstr ""
+
+#: core/xml-importer/importer.php:891
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: core/xml-importer/importer.php:898
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: core/xml-importer/importer.php:903
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: core/xml-importer/importer.php:909
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: core/xml-importer/importer.php:1007
+msgid "Import WordPress"
+msgstr ""
+
+#: core/xml-importer/importer.php:1014
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: core/xml-importer/importer.php:1029
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: core/xml-importer/importer.php:1030
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: core/xml-importer/parsers.php:42 core/xml-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: core/xml-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: core/xml-importer/parsers.php:67 core/xml-importer/parsers.php:72
+#: core/xml-importer/parsers.php:262 core/xml-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: functions.php:134
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:350
+msgid "All"
+msgstr ""
+
+#: functions.php:526
+msgid "TO VIEW IT PLEASE ENTER YOUR PASSWORD"
+msgstr ""
+
+#: functions.php:586
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header-fullscreen.php:58
+msgid "Filter"
+msgstr ""
+
+#: image.php:70
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: image.php:88
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:93
+msgid "Edit"
+msgstr ""
+
+#: image.php:100
+msgid "Pages:"
+msgstr ""
+
+#: image.php:107
+msgid "Back"
+msgstr ""
+
+#: page-albums.php:145 page-background.php:129 page-blog-fullscreen.php:151
+#: page-center.php:77 page-countdown.php:111 page-fullscreen-slider.php:184
+#: page-gallery-grid.php:223 page-gallery-kenburns.php:68
+#: page-gallery-masonry.php:236 page-gallery-ribbon.php:161
+#: page-portfolio-grid-block.php:201 page-portfolio-grid.php:187
+#: page-portfolio-masonry-block.php:213 page-portfolio-masonry.php:200
+#: page.php:63 single-gallery.php:212 single-port.php:793 single.php:206
+msgid "THIS CONTENT IS PASSWORD PROTECTED"
+msgstr ""
+
+#: page-center.php:27 page.php:20 single-port.php:147 single-port.php:503
+#: single.php:80
+msgid "Pages"
+msgstr ""
+
+#: page-countdown.php:50
+msgid "Date has not been entered"
+msgstr ""
+
+#: page-fullscreen-slider.php:153 single-gallery.php:180
+msgid "No images found"
+msgstr ""
+
+#: page-portfolio-grid-block.php:118 page-portfolio-grid.php:117
+#: page-portfolio-masonry-block.php:118 page-portfolio-masonry.php:118
+msgid "Load more works"
+msgstr ""
+
+#: search.php:98
+msgid "Oops!"
+msgstr ""
+
+#: search.php:98
+msgid "Not Found!"
+msgstr ""
+
+#: search.php:105 searchform.php:2
+msgid "Search the site..."
+msgstr ""
+
+#: single.php:88
+msgid "About the Author"
+msgstr ""
+
+#: single.php:146
+msgid "Related Works"
+msgstr ""
