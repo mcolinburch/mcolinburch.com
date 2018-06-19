@@ -1,5 +1,5 @@
 <?php 
-	$gt3page_settings = gt3_get_theme_pagebuilder(@get_the_ID());
+	$gt3page_settings = gt3_get_theme_pagebuilder(@get_the_ID()); 
 ?>
 <!DOCTYPE html>
 <html <?php language_attributes();?>>
@@ -24,7 +24,7 @@
     <header class="main_header">
     	<div class="header_scroll">
             <div class="header_wrapper">
-                <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="logo"><img src="<?php gt3_the_theme_option("logo"); ?>" alt=""  width="<?php gt3_the_theme_option("header_logo_standart_width"); ?>" height="<?php gt3_the_theme_option("header_logo_standart_height"); ?>" class="logo_def"><img src="<?php gt3_the_theme_option("logo_retina"); ?>" alt="" width="<?php gt3_the_theme_option("header_logo_standart_width"); ?>" height="<?php gt3_the_theme_option("header_logo_standart_height"); ?>" class="logo_retina"></a>
+                <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="logo"><img src="<?php gt3_the_theme_option("logo"); ?>" alt="M. Colin Burch"  width="<?php gt3_the_theme_option("header_logo_standart_width"); ?>" height="<?php gt3_the_theme_option("header_logo_standart_height"); ?>" class="logo_def"><img src="<?php gt3_the_theme_option("logo_retina"); ?>" alt="" width="<?php gt3_the_theme_option("header_logo_standart_width"); ?>" height="<?php gt3_the_theme_option("header_logo_standart_height"); ?>" class="logo_retina"></a>
                 <!-- WPML Code Start -->
                 <?php /*do_action('icl_language_selector');*/ ?>
                 <!-- WPML Code End -->
